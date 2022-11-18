@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme==swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme=swift)
 
 
 [![Top Laswiftngs](https://github-readme-stats.vercel.app/api/top-langs/?username=baemki1213&layout=compact&theme=swift&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
