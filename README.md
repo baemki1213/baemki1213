@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Baemki&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Baemki&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
