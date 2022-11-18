@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme==swift)
 
 <!--
 **baemki1213/baemki1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
