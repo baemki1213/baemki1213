@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Baemki&fontSize=70&animation=twinkling)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme=swift)
+
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -36,4 +38,3 @@
 </p>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baemki1213&show_icons=true&theme=swift)
